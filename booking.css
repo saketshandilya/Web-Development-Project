@@ -1,0 +1,13 @@
+.card{
+    margin-right: 1000px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.card-header{
+    font-size: 2em;
+    font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+.card-text{
+    font-size: 1.2em;
+    font-family: Times New Roman, Times, serif;
+}
